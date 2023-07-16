@@ -17,3 +17,5 @@ Show data specific to logged in user
 ● Used NSPredicate to fetch Person objects based on the token of the logged in user.           
 ● Used NSSortDescriptor to fetch the objects in ascending order first based on givenName and then
 based on familyName.          
+
+UI Video: https://drive.google.com/file/d/1YxjoGRqg5xApEvfpXoFr4zJfPikTMXb4
